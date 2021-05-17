@@ -1,0 +1,14 @@
+Log Entry - Gareth
+January 30, 2018 - Started work on home page. - 2 hours
+January 31, 2018 - Worked on recommended section on home page. Setup listeners for podcast cards. 3 hours.
+February 1, 2018 - Removed hardcoded interface. Home page builds interface itself and listeners. 3-4 hours.
+February 2-3, 2018 - Listener can uniquely identify clicked items without search. Fixed git files. 2 hours.
+February 6, 2018 - Added creation of playlists to home screen. - 3 hours.
+February 7, 2018 - Made home page use domain specific objects to build content for home screen. 2 hours.
+March 7, 2018 - Implemented search activity. - 4 hours.
+March 8, 2018 - Add search algorithm to business class and started writing tests. - 3 hours.
+March 10, 2018 - Abstracted comparisons between channel and episode objects, improved search results. - 3 hours.
+March 24, 2018 - Setup handlers for playlists on main activity. - 3hours.
+March 25, 2018 - Add sql querry to populate playlists, Add creation of persistant playlists. - 3 hours.
+March 26, 2018 - Add removale of playlists, Add ability to add episodes to playlists. - 3 hours.
+March 27, 2018 - Merged GUIPlaylist again. - 4 hours.
